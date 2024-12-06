@@ -39,7 +39,7 @@
         "name": "Sonex Token",
         "symbol": "SONEX",
         "decimals": 18,
-        "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/sone-logo.png"
+        "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/sonex-logo.png"
       },
       {
         "chainId": 1946,
