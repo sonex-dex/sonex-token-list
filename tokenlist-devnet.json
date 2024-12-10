@@ -48,6 +48,14 @@
         "symbol": "ASTR",
         "decimals": 18,
         "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/astar-logo.png"
+      },
+      {
+        "chainId": 1946,
+        "address": "0xa5d6513082ef1f157a33a066293309e74a8af6df",
+        "name": "Sone Stablecoin",
+        "symbol": "SONE",
+        "decimals": 18,
+        "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/sone-logo.png"
       }
     ],
     "version": {
