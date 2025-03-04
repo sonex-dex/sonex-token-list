@@ -1,0 +1,74 @@
+{
+    "name": "SONEX",
+    "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+    "keywords": [
+      "sonex",
+      "soneium",
+      "tokensets",
+      "defi"
+    ],
+    "timestamp": "2024-12-03T12:32:17.000+00:00",
+    "tokens": [
+      {
+        "chainId": 1946,
+        "address": "0x2337511e43b7d63fbc283900be9fb25fc6ecc25c",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/weth-logo.png"
+      },
+      {
+        "chainId": 1946,
+        "address": "0x0000000000000000000000000000000000000000",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/eth-logo.png"
+      },
+      {
+        "chainId": 1946,
+        "address": "0xe9a198d38483ad727abc8b0b1e16b2d338cf0391",
+        "name": "Bridged USDC",
+        "symbol": "USDC.e",
+        "decimals": 6,
+        "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/usdc-logo.png"
+      },
+      {
+        "chainId": 1946,
+        "address": "0x8879309d4002b8c98163ece3f58653f774de8416",
+        "name": "Sonex Token",
+        "symbol": "SONEX",
+        "decimals": 18,
+        "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/sonex-logo.png"
+      },
+      {
+        "chainId": 1946,
+        "address": "0x26e6f7c7047252dde3dcbf26aa492e6a264db655",
+        "name": "Astar Minato Testnet Token",
+        "symbol": "ASTR",
+        "decimals": 18,
+        "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/astar-logo.png"
+      },
+      {
+        "chainId": 1946,
+        "address": "0xa5d6513082ef1f157a33a066293309e74a8af6df",
+        "name": "Sone Stablecoin",
+        "symbol": "SONE",
+        "decimals": 18,
+        "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/sone-logo.png"
+      },
+      {
+        "chainId": 1946,
+        "address": "0xe3336b3E0d36aacCddEcCC1B4c5d75D5216e932d",
+        "name": "X-Token",
+        "symbol": "XToken",
+        "decimals": 18,
+        "logoURI": "https://img.sonex.so/X-Token-logo.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    }
+  }
