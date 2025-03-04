@@ -56,6 +56,14 @@
         "symbol": "SONE",
         "decimals": 18,
         "logoURI": "https://sonex-img.s3.ap-southeast-1.amazonaws.com/sone-logo.png"
+      },
+      {
+        "chainId": 1946,
+        "address": "0xe3336b3E0d36aacCddEcCC1B4c5d75D5216e932d",
+        "name": "X-Token",
+        "symbol": "XToken",
+        "decimals": 18,
+        "logoURI": "https://img.sonex.so/X-Token-logo.svg"
       }
     ],
     "version": {
